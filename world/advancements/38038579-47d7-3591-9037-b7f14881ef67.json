@@ -478,27 +478,57 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2026-10-10 14:46:26 +0000",
+      "fen": "2026-10-10 14:16:27 +0000",
+      "pine_taiga": "2026-10-10 13:59:19 +0000",
+      "bayou": "2026-10-10 14:14:38 +0000",
+      "muddy_river": "2026-10-10 14:22:30 +0000",
       "grassy_beach": "2026-10-10 07:20:26 +0000",
       "rocky_meadow": "2026-10-10 04:56:05 +0000",
+      "blackwood_taiga": "2026-10-10 14:08:50 +0000",
       "highland_fields": "2026-10-10 04:54:47 +0000",
       "magnolia_highlands": "2026-10-10 04:56:10 +0000",
+      "sparse_redwoods": "2026-10-10 14:11:02 +0000",
+      "deciduous_forest": "2026-10-10 13:48:22 +0000",
+      "boreal_forest": "2026-10-10 14:22:27 +0000",
+      "towering_cliffs": "2026-10-10 14:22:17 +0000",
+      "bamboo_forest": "2026-10-10 14:00:31 +0000",
+      "temperate_grove": "2026-10-10 14:05:14 +0000",
       "pine_slopes": "2026-10-10 04:53:55 +0000",
       "grassland": "2026-10-10 07:20:43 +0000",
       "prairie": "2026-10-10 07:22:26 +0000",
-      "redwoods": "2026-10-10 06:39:44 +0000"
+      "gravel_beach": "2026-10-10 14:22:40 +0000",
+      "redwoods": "2026-10-10 06:39:44 +0000",
+      "golden_boreal_taiga": "2026-10-10 14:22:59 +0000",
+      "lupine_plains": "2026-10-10 13:59:20 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2026-10-10 14:46:26 +0000",
+      "fen": "2026-10-10 14:16:27 +0000",
+      "pine_taiga": "2026-10-10 13:59:19 +0000",
+      "bayou": "2026-10-10 14:14:38 +0000",
+      "muddy_river": "2026-10-10 14:22:30 +0000",
       "grassy_beach": "2026-10-10 07:20:26 +0000",
       "rocky_meadow": "2026-10-10 04:56:05 +0000",
+      "blackwood_taiga": "2026-10-10 14:08:50 +0000",
       "highland_fields": "2026-10-10 04:54:47 +0000",
       "magnolia_highlands": "2026-10-10 04:56:10 +0000",
+      "sparse_redwoods": "2026-10-10 14:11:02 +0000",
+      "deciduous_forest": "2026-10-10 13:48:22 +0000",
+      "boreal_forest": "2026-10-10 14:22:27 +0000",
+      "towering_cliffs": "2026-10-10 14:22:17 +0000",
+      "bamboo_forest": "2026-10-10 14:00:31 +0000",
+      "temperate_grove": "2026-10-10 14:05:14 +0000",
       "pine_slopes": "2026-10-10 04:53:55 +0000",
       "grassland": "2026-10-10 07:20:43 +0000",
       "prairie": "2026-10-10 07:22:26 +0000",
-      "redwoods": "2026-10-10 06:39:44 +0000"
+      "gravel_beach": "2026-10-10 14:22:40 +0000",
+      "redwoods": "2026-10-10 06:39:44 +0000",
+      "golden_boreal_taiga": "2026-10-10 14:22:59 +0000",
+      "lupine_plains": "2026-10-10 13:59:20 +0000"
     },
     "done": false
   },
@@ -624,9 +654,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2026-10-10 14:30:25 +0000",
+      "minecraft:deep_ocean": "2026-10-10 14:49:12 +0000",
       "minecraft:cherry_grove": "2026-10-10 04:58:50 +0000",
+      "minecraft:birch_forest": "2026-10-10 14:14:34 +0000",
+      "minecraft:beach": "2026-10-10 14:14:43 +0000",
+      "minecraft:dark_forest": "2026-10-10 14:07:11 +0000",
       "minecraft:sparse_jungle": "2026-10-10 06:26:55 +0000",
       "minecraft:river": "2026-10-10 06:00:43 +0000",
+      "minecraft:lukewarm_ocean": "2026-10-10 14:08:23 +0000",
+      "minecraft:swamp": "2026-10-10 14:13:11 +0000",
+      "minecraft:cold_ocean": "2026-10-10 14:22:34 +0000",
+      "minecraft:forest": "2026-10-10 14:05:15 +0000",
+      "minecraft:deep_cold_ocean": "2026-10-10 14:31:57 +0000",
+      "minecraft:windswept_forest": "2026-10-10 14:13:01 +0000",
+      "minecraft:ocean": "2026-10-10 14:14:45 +0000",
+      "minecraft:jungle": "2026-10-10 14:55:25 +0000",
+      "minecraft:flower_forest": "2026-10-10 14:28:12 +0000",
+      "minecraft:old_growth_birch_forest": "2026-10-10 14:07:03 +0000",
       "minecraft:savanna": "2026-10-10 05:59:48 +0000",
       "minecraft:plains": "2026-10-10 04:58:20 +0000"
     },
@@ -3253,7 +3298,8 @@
     "criteria": {
       "apple": "2026-10-10 05:45:36 +0000",
       "potato": "2026-10-10 06:33:06 +0000",
-      "bread": "2026-10-10 06:00:25 +0000"
+      "bread": "2026-10-10 06:00:25 +0000",
+      "golden_apple": "2026-10-10 15:03:31 +0000"
     },
     "done": false
   },
@@ -8639,6 +8685,744 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2026-10-10 07:50:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2026-10-10 13:24:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2026-10-10 13:24:34 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2026-10-10 13:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2026-10-10 13:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-10-10 13:24:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_slabs": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2026-10-10 13:24:38 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2026-10-10 13:29:10 +0000"
+    },
+    "done": true
+  },
+  "onlyexcavators:recipes/tools/wooden_excavator": {
+    "criteria": {
+      "has_oak_log": "2026-10-10 13:29:10 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2026-10-10 13:29:10 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2026-10-10 13:29:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2026-10-10 13:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2026-10-10 13:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2026-10-10 13:36:19 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2026-10-10 13:47:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2026-10-10 13:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2026-10-10 14:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2026-10-10 14:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2026-10-10 14:05:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2026-10-10 14:05:50 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:swamp_village": {
+    "criteria": {
+      "in_swamp_village": "2026-10-10 14:13:22 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/diorite_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/turquoise_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/olive_green_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/light_blue_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/dripstone_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/vermilion_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/black_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/gray_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/maroon_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/cyan_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/sea_green_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/yellow_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/brown_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/granite_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/magenta_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/limestone_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/light_gray_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/green_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/chartreuse_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/ochrum_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/tuff_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/white_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/lime_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/red_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/orange_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/pine_green_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/pink_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/royal_blue_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/purple_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/blue_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/trapdoors/scorchia_locometal_trapdoor": {
+    "criteria": {
+      "has_item": "2026-10-10 14:14:14 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2026-10-10 14:16:33 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2026-10-10 14:24:54 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_cold_ocean": "2026-10-10 14:31:57 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:cabin_village": {
+    "criteria": {
+      "in_cabin_village": "2026-10-10 14:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2026-10-10 14:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-10-10 15:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2026-10-10 15:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2026-10-10 15:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2026-10-10 15:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2026-10-10 15:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2026-10-10 15:04:23 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2026-10-10 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/single_potion": {
+    "criteria": {
+      "has_planks": "2026-10-10 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2026-10-10 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_potions": {
+    "criteria": {
+      "has_planks": "2026-10-10 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_potions": {
+    "criteria": {
+      "has_planks": "2026-10-10 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2026-10-10 15:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2026-10-10 15:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2026-10-10 15:39:08 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2026-10-10 15:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-10-10 15:34:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2026-10-10 15:39:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-10-10 15:39:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2026-10-10 15:39:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2026-10-10 15:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2026-10-10 15:39:08 +0000"
     },
     "done": true
   },
