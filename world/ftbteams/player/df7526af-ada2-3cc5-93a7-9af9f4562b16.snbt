@@ -1,0 +1,17 @@
+{
+	id: "df7526af-ada2-3cc5-93a7-9af9f4562b16"
+	type: "player"
+	player_name: "komeme"
+	ranks: {
+		df7526af-ada2-3cc5-93a7-9af9f4562b16: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "komeme"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9E59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

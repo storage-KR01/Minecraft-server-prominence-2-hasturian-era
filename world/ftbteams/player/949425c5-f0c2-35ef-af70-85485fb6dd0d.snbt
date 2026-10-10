@@ -1,0 +1,17 @@
+{
+	id: "949425c5-f0c2-35ef-af70-85485fb6dd0d"
+	type: "player"
+	player_name: "Sylein1"
+	ranks: {
+		949425c5-f0c2-35ef-af70-85485fb6dd0d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sylein1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFBD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

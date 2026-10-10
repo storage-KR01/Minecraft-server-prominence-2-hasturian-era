@@ -1,0 +1,17 @@
+{
+	id: "e737f4b1-57af-32d5-abe9-7d0c1f780b4e"
+	type: "player"
+	player_name: "SieuPhanDong"
+	ranks: {
+		e737f4b1-57af-32d5-abe9-7d0c1f780b4e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SieuPhanDong"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
